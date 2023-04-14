@@ -1,0 +1,11 @@
+C:\Bac\WindowsFormsAppCalc\WindowsFormsAppCalc\bin\Debug\WindowsFormsAppCalc.exe.config
+C:\Bac\WindowsFormsAppCalc\WindowsFormsAppCalc\bin\Debug\WindowsFormsAppCalc.exe
+C:\Bac\WindowsFormsAppCalc\WindowsFormsAppCalc\bin\Debug\WindowsFormsAppCalc.pdb
+C:\Bac\WindowsFormsAppCalc\WindowsFormsAppCalc\obj\Debug\WindowsFormsAppCalc.csproj.AssemblyReference.cache
+C:\Bac\WindowsFormsAppCalc\WindowsFormsAppCalc\obj\Debug\WindowsFormsAppCalc.csproj.SuggestedBindingRedirects.cache
+C:\Bac\WindowsFormsAppCalc\WindowsFormsAppCalc\obj\Debug\WindowsFormsAppCalc.FormCalc.resources
+C:\Bac\WindowsFormsAppCalc\WindowsFormsAppCalc\obj\Debug\WindowsFormsAppCalc.Properties.Resources.resources
+C:\Bac\WindowsFormsAppCalc\WindowsFormsAppCalc\obj\Debug\WindowsFormsAppCalc.csproj.GenerateResource.cache
+C:\Bac\WindowsFormsAppCalc\WindowsFormsAppCalc\obj\Debug\WindowsFormsAppCalc.csproj.CoreCompileInputs.cache
+C:\Bac\WindowsFormsAppCalc\WindowsFormsAppCalc\obj\Debug\WindowsFormsAppCalc.exe
+C:\Bac\WindowsFormsAppCalc\WindowsFormsAppCalc\obj\Debug\WindowsFormsAppCalc.pdb
